@@ -1,7 +1,7 @@
 # Forecasting School Enrolments in the Australian Capital Territory
 ***Tianyu Shen, James Raymer and Caroline Hendy***
 
-This is a repository for our paper in [*Journal of the Royal Statistical Society Series A: Statistics in Society*](https://academic.oup.com/jrsssa).
+This is a repository for our paper in [*Journal of the Royal Statistical Society Series A: Statistics in Society*](https://doi.org/10.1093/jrsssa/qnae094).
 
 Details of the model are included in our paper. In this repository, we provide the code for the model based on the year 2018. The code is divided into four sequential steps, where each component of the model is forecasted separately.
 
